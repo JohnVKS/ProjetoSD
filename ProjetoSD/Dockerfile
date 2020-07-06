@@ -1,3 +1,3 @@
 FROM nginx:alpine
-COPY /dist/ProjetoSD /usr/share/nginx/html
+COPY /dist/ProjetoSD /
 EXPOSE 80
